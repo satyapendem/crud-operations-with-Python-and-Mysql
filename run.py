@@ -54,8 +54,19 @@ def details_update():
 		name=request.form['name']
 		latitude=request.form['lat']
 		longitude=request.form['lon']
-		query="UPDATE trip set name=name and latitude=latitude and longitude=longitude where id=id"
-		c.execute(query)
-		conn.commit()
+		query="UPDATE trip set name=%s,latitude=%s,longitude=%s where id=%s"
+		par=(name,latitude,longitude,id)
+		c.execute(query,par)
+		
 		return "<html><body><h1>Values updated</h1></body></html>"
+@app.route('/deleteForm')
+def show_delete():
+    return render_template("delete_id.html")
+@app.route('/deleteid',methods=['POST','GET'])
+def delete_data():
+    if request.method=='POST':
+        delete1=request.form['upid']
+        qry="DELETE from trip where id=%s"
+        c.execute(qry,delete1)
+        return "<html><body><h1>Values are deleted</h1></body></html>"    		
 app.run()
