@@ -1,0 +1,34 @@
+<html>
+ <body>
+  <center>
+  <h2><font color="red">Update Your Details</font></h2>
+  <form action="\update_det" method="post">
+
+{% for row in data1 %}
+     <table border="0">
+     <tr>
+     <th><h2>id:</th>
+     <td><h3><input type="text" value="{{row[0]}}" name="id"></td>
+     </tr></h2>
+     <tr>
+     <th><h2>name:</th>
+     <td><input type="text" value="{{row[1]}}" name="name"></td>
+     </tr></h2>
+     <tr>
+     <th><h2>latitude:</th>
+     <td><input type="text" value="{{row[2]}}" name="lat"></td>
+     </tr></h2>
+     <tr>
+     <th><h2>longitude:</th>
+     <td><input type="text" value="{{row[3]}}" name="lon"></td>
+     </tr></h2>   
+   <tr>
+    <th><input type="submit" name="Update" value="Update"></th>
+    <td><input type="reset" name="reset" value="clear">
+    </tr>
+    </table>
+{% endfor %}
+</form>
+</center>
+</body>
+</html>
