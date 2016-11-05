@@ -26,6 +26,8 @@ The all HTML files are present in the "Templates" Directory.
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/delete.png)
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/delete1.png)
 
+"Show data In the form of JSON"
+![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/json.png)
 
 
 
