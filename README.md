@@ -22,6 +22,11 @@ The all HTML files are present in the "Templates" Directory.
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/update1.png)
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/update2.png)
 
+"Delete the values from the table based on ID"
+![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/delete.png)
+![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/delete1.png)
+
+
 
 
 
