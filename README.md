@@ -1,9 +1,14 @@
 # crud-operations-with-Python-and-Mysql
-
+#Requirements :-
+ 1.python 2.7.11
+ 2. flask
+ 3. mysql Database
+ 4. pymysql(sudo pip install pymysql)
 The CRUD operations are performed with Flask and mysql with simple Sql queries. It contains the INSERT,DELETE,UPDATE,SELECT
 operations in simple Flask Program.
 
 The all HTML files are present in the "Templates" Directory.
+
 "index.html" which contains all the links
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/x.png)
 
@@ -28,6 +33,8 @@ The all HTML files are present in the "Templates" Directory.
 
 "Show data In the form of JSON"
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/json.png)
+
+                                                Thank You
 
 
 
