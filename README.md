@@ -5,7 +5,7 @@ operations in simple Flask Program.
 
 The all HTML files are present in the "Templates" Directory.
 "index.html" which contains all the links
-![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/index.png)
+![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/x.png)
 
 "Insert" Operation
 
