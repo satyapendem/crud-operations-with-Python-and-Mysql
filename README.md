@@ -16,6 +16,15 @@ The all HTML files are present in the "Templates" Directory.
 "Show Data in the Form of Table"
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/show.png)
 
+"Update the values in table Based on ID"
+
+![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/update.png)
+![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/update1.png)
+![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/update2.png)
+
+
+
+
 
 
 
