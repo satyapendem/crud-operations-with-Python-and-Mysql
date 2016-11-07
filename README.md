@@ -27,7 +27,7 @@ when ever user opens the Browser and enters "localhost:5000" then the main funct
 The first operation is "Insert". By clicking the insert then the "createForm" function will execute and will throw "insert.html" which contains name,latitude,longitude textfields.
 
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/insert.png)<br>
-After that "insert" function will be executed the form values are loaded to python script and the values are stored in mysql
+After that "insert" function will be executed and the form values are loaded to python script and the values are stored in mysql
 database. If it was success the it will dispay the name for the user as shown below.
 ![alt tag](https://github.com/satyapendem/crud-operations-with-Python-and-Mysql/blob/master/ScreenShots/insert1.png)
 
