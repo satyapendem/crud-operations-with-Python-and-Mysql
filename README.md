@@ -1,4 +1,4 @@
-# Crud-Pperations-with-Python-and-Mysql
+# Crud-Operations-with-Python-and-Mysql
 This is a basic example for Flask-python and Mysql. Basically this repository contains the run.py which will contains the all the crud operation functions and it will throws the HTML files based on the events. 
 #Requirements
 
